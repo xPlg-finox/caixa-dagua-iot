@@ -163,11 +163,4 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 ---
 
-## 🤝 Contribuições
-
-Sinta-se à vontade para abrir issues e pull requests.  
-Sugestões de melhorias (filtro de leituras, calibração remota, histórico, notificações, etc.) são bem-vindas!
-
----
-
 Feito com 💧 para aprender IoT de forma prática.
